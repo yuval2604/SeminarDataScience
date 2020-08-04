@@ -24,3 +24,11 @@ Miss range_train
 remove first column -id
 
 add KNN NAIVE BAYES , DECISION TREES ,
+
+# bernuli&linear regression
+
+# Keras and Tenserflow:
+
+using keras and ternserflow build a model with 96% acc
+
+# removing exceptional data and checking again the models
