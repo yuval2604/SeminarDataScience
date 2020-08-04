@@ -32,3 +32,5 @@ add KNN NAIVE BAYES , DECISION TREES ,
 using keras and ternserflow build a model with 96% acc
 
 # removing exceptional data and checking again the models
+
+# loop for best result
