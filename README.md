@@ -24,6 +24,7 @@ We learned that this dataset is 8 times bigger than any previously publicly rele
 When we dove a little deeper we discovered it was even more challenging than we thought - with a massive, unclean dataset that does not fit into memory - we were very excited and a little bit intimidated.
 
 the problem
+
 Breast cancer is cancer that forms in the cells of the breasts.
 After skin cancer, breast cancer is the most common cancer diagnosed in women in the United States. Breast cancer can occur in both men and women, but it's far more common in women.
 Breast cancer survival rates have increased, largely due to earlier detection.
