@@ -25,7 +25,4 @@ When we dove a little deeper we discovered it was even more challenging than we 
 
 the problem
 
-Breast cancer is cancer that forms in the cells of the breasts.
-After skin cancer, breast cancer is the most common cancer diagnosed in women in the United States. Breast cancer can occur in both men and women, but it's far more common in women.
-Breast cancer survival rates have increased, largely due to earlier detection.
-
+Breast cancer has been identified as the second largest cause of cancer deaths among women of age 40 and 55. The number of breast cancer diagnosis is estimated to be 1.2 million among women every year according to projections by the World Health Organization . According to statistics by the American cancer society in 2001, about 40,200 deaths are caused by the breast cancers and 192,000 cases consist of women who are newly diagnosed. Additional statistics as of 2006 estimated 214,460 new cancer diagnosis and total death at least 41,000 within the US . Early detection and accurate diagnosis has been crucial in reducing the number of deaths which has increased the survival rate of those diagnosed with breast cancer. 
